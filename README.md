@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Cy Coyoca</h1>
-<h3 align="center">Welcome to my portfolio! I'm passionate about solving bugs and issues, and I love contributing to various projects. In this repository, you'll find examples of my work, projects I've contributed to, and my expertise in a variety of programming languages and technologies.</h3>
+<h1 align="center">Hi 👋, I'm Cy</h1>
+<h3 align="center">Welcome to my portfolio! I spend my time solving bugs and issues, and I love contributing to various projects. In this repository, you'll find examples of my work, projects I've contributed to, and my expertise in a variety of programming languages and technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelcy&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelcy" /> </p>
 
-- 💬 Ask me about **C, Java, C#, PHP**
+- 💬 Ask me about **C, Java, C#, Python, Flutter, Dart**
 
 - 📫 How to reach me **cycoyoca@gmail.com**
 
