@@ -10,19 +10,20 @@
 
 ### 🔧 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,php,java,cs,python,nodejs,c,dart,bash,git,mysql,firebase,docker,supabase,linux,arduino&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,php,java,cs,python,nodejs,c,dart,bash,git,mysql,firebase,docker,supabase,linux&theme=dark)](https://skillicons.dev)
+
 
 
 ### 📊 GitHub Stats
 
-<h1><div align="center">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emmanuelcy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelcy&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelcy&theme=tokyonight"/>
 </div>
-</h1>
+<h1></h1>
 
 <!-- ### 🏆 GitHub Trophies
 
