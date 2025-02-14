@@ -1,4 +1,7 @@
+
+
 <div align="center">
+<img src="src/gif/ayanokoji-kiyotaka-crop.gif" width="100%"/>
 <h2 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=999999&color=4DADD&center=true&width=435&lines=EMMANUEL+CY+COYOCA" alt="Typing SVG" /></h2>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4DADD&center=true&width=435&lines=Full+Stack+App+Developer;IT;Open+Source+Contributor;3%2B+years+of+coding+experience;Always+Eager+to+Learn" alt="Typing SVG" /></a> 
   
