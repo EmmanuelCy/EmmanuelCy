@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi there! I'm Cy 👋</h1>
-  <h3>Full Stack Programmer | Problem Solver | Tech Enthusiast</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=999999&color=8815F7&center=true&width=435&lines=EMMANUEL+CY+COYOCA" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8815F7&&center=true&width=435&lines=Full+Stack+Developer;IT;Open+Source+Contributor;3%2B+years+of+coding+experience;Always+Eager+to+Learn" alt="Typing SVG" /></a>
   
   <!-- Random Dev Quote -->
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
@@ -12,38 +12,25 @@ I'm passionate about crafting elegant solutions and squashing bugs. My repositor
 
 ### 🔧 Tech Stack
 
-**Languages**
-- Backend: ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- Frontend: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- Mobile: ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-
-**Databases**
-- SQL: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-- NoSQL: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-- BaaS: ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
-**Tools & Platforms**
-- DevOps: ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-- Frameworks: ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
-- Hardware: ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![PHP](https://skillicons.dev/icons?i=php) ![Java](https://skillicons.dev/icons?i=java) ![C](https://skillicons.dev/icons?i=c) ![C#](https://skillicons.dev/icons?i=cs) ![Python](https://skillicons.dev/icons?i=python) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![JavaScript](https://skillicons.dev/icons?i=js) ![Dart](https://skillicons.dev/icons?i=dart) ![Bash](https://skillicons.dev/icons?i=bash) ![CMD](https://skillicons.dev/icons?i=cmd) ![MySQL](https://skillicons.dev/icons?i=mysql) ![MariaDB](https://skillicons.dev/icons?i=mariadb) ![Oracle](https://skillicons.dev/icons?i=oracle) ![MSSQL](https://skillicons.dev/icons?i=mssql) ![Firebase](https://skillicons.dev/icons?i=firebase) ![Supabase](https://skillicons.dev/icons?i=supabase) ![Docker](https://skillicons.dev/icons?i=docker) ![Linux](https://skillicons.dev/icons?i=linux) ![Arduino](https://skillicons.dev/icons?i=arduino)
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emmanuelcy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelcy&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emmanuelcy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelcy&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ### 🔥 GitHub Streak
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelcy&theme=dracula"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelcy&theme=tokyonight"/>
 </div>
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emmanuelcy&theme=dracula"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=emmanuelcy&theme=tokyonight"/>
 </div>
 
 ### 🤝 Connect with me
